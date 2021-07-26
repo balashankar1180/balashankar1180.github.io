@@ -1,3 +1,2 @@
 # All GitHub Files
-
-[a relative link](https://balashankar1180.github.io/Accordian.html)
+[ 1. Accordian.html ](https://balashankar1180.github.io/Accordian.html)
